@@ -8,6 +8,6 @@ class Program
     {
         Console.WriteLine("Trainee: Everybody here saying we'll get terminated");
 
-        Console.WriteLine("Developer: Welcome to LTI!");
+        Console.WriteLine("HR: Welcome to LTI!");
     }
 }
